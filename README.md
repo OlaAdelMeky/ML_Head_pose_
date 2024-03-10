@@ -1,9 +1,10 @@
-## The Head Pose Estimation project utilizes the MediaPipe FaceMesh library and Support Vector Regression (SVR) models to predict the pitch, yaw, and roll angles of a person's head based on facial landmarks detected in images. This project aims to provide a robust and accurate method for estimating head orientation, which has applications in various fields, including human-computer interaction, gaming, and virtual reality.
-![Project Logo](https://miro.medium.com/v2/resize:fit:604/format:webp/0*3aYfZkNKTeobv07d.png)
+### The Head Pose Estimation project utilizes the MediaPipe FaceMesh library and Support Vector Regression (SVR) models to predict the pitch, yaw, and roll angles of a person's head based on facial landmarks detected in images. This project aims to provide a robust and accurate method for estimating head orientation, which has applications in various fields, including human-computer interaction, gaming, and virtual reality.
+
+<p align="center"> <img alt="head rotations" src="(https://miro.medium.com/v2/resize:fit:604/format:webp/0*3aYfZkNKTeobv07d.png"></p>
 
 ## Demo:
-![Demo Video](https://www.youtube.com/watch?v=your_video_id)
 
+[![Demo Video](https://img.youtube.com/vi/https://youtu.be/SMhI2TeI3RY)](https://www.youtube.com/watch?v=https://youtu.be/SMhI2TeI3RY)
 
 
 ## Key Features:
